@@ -1,3 +1,6 @@
+# network
+Fast and Secure Messenger
+
 # Network — Android Social Messenger
 
 Android-приложение для общения в реальном времени с поддержкой личных чатов, новостной ленты и профиля пользователя. Построено на Firebase.
